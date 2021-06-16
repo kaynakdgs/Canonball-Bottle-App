@@ -1,2 +1,2 @@
 # Cannonball Bottle App (Angry Birds Algorithm)
-- Bottle konumunu ayarladıktan sonra Canonball ile hız ve açı vererek vurmaya çalıştığımız uygulamadır.
+- It is the application that we try to hit by giving speed and angle with Canonball after setting the bottle position.
